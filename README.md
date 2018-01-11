@@ -1,8 +1,8 @@
-# InvestorStuff
 
-#Books Overview  
 
-##The Intelligent Investor: The Definitive Book on Value Investing  
+# Books Overview  
+
+## The Intelligent Investor: The Definitive Book on Value Investing  
 
 -Author: Benjamin Graham  
 
@@ -10,7 +10,7 @@
 
 This is the book written by the man who taught Warren Buffet all about investing. It is a very long heavy read that focuses on finding the intrinsic value of an assest and buying it when its price is below that.  
 
-##Irrational Exuberance  
+## Irrational Exuberance  
 
 -Author: Robert J. Shiller  
 
@@ -18,7 +18,7 @@ This is the book written by the man who taught Warren Buffet all about investing
 
 A great read on the psycology of markets. He tries to explain market fluctuations and bubbles, not as principles of economics, but more as a function of human psycology.  
 
-##University of Berkshire Hathaway: 30 Years of Lessons Learned from Warren Buffett & Charlie Munger at the Annual Shareholders Meeting  
+## University of Berkshire Hathaway: 30 Years of Lessons Learned from Warren Buffett & Charlie Munger at the Annual Shareholders Meeting  
 
 -Author: Daniel Pecaut, Corey Wrenn  
 
