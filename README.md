@@ -1,5 +1,3 @@
-
-
 # Books Overview  
 
 ## The Intelligent Investor: The Definitive Book on Value Investing  
@@ -27,4 +25,12 @@ A great read on the psycology of markets. He tries to explain market fluctuation
 One of these guys realized he knew nothing about investing, to solve this he bought a single share of Berkshire Hathaway so he could attend their shareholder meetings. He took exstensive notes on the wisdom of Warren Buffet and Charles Munger and compiled them into this collection.  
 
 Note: This is the best investment in have seen yet and its only $0.99.  
+
+## The Wealthy Barber Returns  
+
+-Author: David Chilton
+
+-ISBN-10: 0968394744  
+
+An easy one to sum up, the laymens guide to investing.  A great book to start building a knowledge base in investing.  
 
