@@ -14,7 +14,7 @@ This is the book written by the man who taught Warren Buffet all about investing
 
 -ISBN-10: 0691173125  
 
-A great read on the psycology of markets. He tries to explain market fluctuations and bubbles, not as principles of economics, but more as a function of human psycology.  
+A great read on the psycology of markets. He tries to explain market fluctuations and bubbles, not as principles of economics, but more as a function of human psycology. An interesting one to be reading during the boom of crypto currencies.  
 
 ## University of Berkshire Hathaway: 30 Years of Lessons Learned from Warren Buffett & Charlie Munger at the Annual Shareholders Meeting  
 
@@ -24,6 +24,8 @@ A great read on the psycology of markets. He tries to explain market fluctuation
 
 One of these guys realized he knew nothing about investing, to solve this he bought a single share of Berkshire Hathaway so he could attend their shareholder meetings. He took exstensive notes on the wisdom of Warren Buffet and Charles Munger and compiled them into this collection.  
 
+It is both educational and entertaining to listen to how these 2 created their empire. A common topic is pointing out the weaknesses of modern economic theory.
+
 Note: This is the best investment in have seen yet and its only $0.99.  
 
 ## The Wealthy Barber Returns  
@@ -32,5 +34,5 @@ Note: This is the best investment in have seen yet and its only $0.99.
 
 -ISBN-10: 0968394744  
 
-An easy one to sum up, the laymens guide to investing.  A great book to start building a knowledge base in investing.  
+An easy one to sum up, the laymens guide to investing. If you know nothing of investing, start here.
 
